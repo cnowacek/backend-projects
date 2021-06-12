@@ -11,7 +11,7 @@ This endpoint should return a complete list of all of the attractions that the b
 This endpoint should return a single attraction with the corrosponding `attraction-id`.
 
 ## Phase 2
-Add the ability to filter the results that are returned from the `GET /attractions` endpoint that was created in Phase 1. 
+Add the ability to filter the results that are returned from the `GET /attractions` endpoint that was created in Phase 1. Refer to [StackOverflow's blog post](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/#h-allow-filtering-sorting-and-pagination) around best practices for sorting, filtering, and pagination.
 
 ## Phase 3
 Create an endpoint that allows clients to create new attractions. 
